@@ -1,0 +1,4 @@
+{ "_id" : "testProduct1Id", "code" : "testProduct1Code", "name" : "testProduct1Name", "thumbnail" : "testProduct1nail"}
+{ "_id" : "testProduct2Id", "code" : "testProduct2Code", "name" : "testProduct2Name", "thumbnail" : "testProduct2nail", "testtagX" : "testtag3value2", "testtag2" : "testtag2value", "testtag1" : "testtag1value", "testtag4" : "testtag4value" }
+{ "_id" : "testProduct3Id", "code" : "duplicatedCode", "name" : "testProduct3Name", "thumbnail" : "testProduct3nail"}
+{ "_id" : "testProduct4Id", "code" : "duplicatedCode", "name" : "testProduct4Name", "thumbnail" : "testProduct4nail"}
